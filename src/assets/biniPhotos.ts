@@ -1,7 +1,7 @@
 export const biniPhotos = [
   {
     id: 'sheena',
-    src: 'src/assets/sheena.jpg',
+    src: '/sheena.jpg',
     name: 'Sheena',
     full: 'Sheena Mae Manuel Catacutan',
     cover:
@@ -11,7 +11,7 @@ export const biniPhotos = [
   },
   {
     id: 'jhoanna',
-    src: 'src/assets/jhoanna.jpg',
+    src: '/jhoanna.jpg',
     name: 'Jhoanna',
     full: 'Jhoanna Christine Burgos Robles',
     cover:
@@ -21,7 +21,7 @@ export const biniPhotos = [
   },
   {
     id: 'mikha',
-    src: 'src/assets/mikha.jpg',
+    src: '/mikha.jpg',
     name: 'Mikha',
     full: 'Mikhaela Janna Jimenea Lim',
     cover:
@@ -31,7 +31,7 @@ export const biniPhotos = [
   },
   {
     id: 'staku',
-    src: 'src/assets/staku.jpg',
+    src: '/staku.jpg',
     name: 'Stacey',
     full: 'Lindtsey Stacey Aubrey Casumpang Sevilleja',
     cover:
@@ -41,7 +41,7 @@ export const biniPhotos = [
   },
   {
     id: 'gwen',
-    src: 'src/assets/gwen.jpg',
+    src: '/gwen.jpg',
     name: 'Gwen',
     full: 'Gweneth Llaguno Apuli',
     cover:
@@ -51,7 +51,7 @@ export const biniPhotos = [
   },
   {
     id: 'colet',
-    src: 'src/assets/colet.jpg',
+    src: '/colet.jpg',
     name: 'Colet',
     full: 'Maria Nicolette Florenosos Vergara',
     cover:
@@ -61,7 +61,7 @@ export const biniPhotos = [
   },
   {
     id: 'maloi',
-    src: 'src/assets/maloi.jpg',
+    src: '/maloi.jpg',
     name: 'Maloi',
     full: 'Mary Loi Yves Kipte Ricalde',
     cover:
@@ -71,7 +71,7 @@ export const biniPhotos = [
   },
   {
     id: 'aiah',
-    src: 'src/assets/aiah.jpg',
+    src: '/aiah.jpg',
     name: 'Aiah',
     full: 'Maraiah Queen Arceta',
     cover:
