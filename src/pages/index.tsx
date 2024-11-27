@@ -8,7 +8,7 @@ export function Page() {
   return (
     <div
       className='relative bg-cover bg-center bg-opacity-10 min-h-screen'
-      style={{ backgroundImage: `url('src/assets/bloombilya.jpg')` }}
+      style={{ backgroundImage: `url('/bloombilya.jpg')` }}
     >
       <div className='absolute inset-0 bg-rose-50 opacity-85'>
         <small className='absolute bottom-0 tracking-widest text-gray-950 [writing-mode:vertical-rl] transform rotate-180 opacity-70 py-4'>
