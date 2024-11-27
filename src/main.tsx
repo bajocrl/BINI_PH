@@ -2,4 +2,11 @@ import { createRoot } from 'react-dom/client';
 import { Page } from '@/pages';
 import '@/styles/index.css';
 
-createRoot(document.getElementById('root')!).render(<Page />);
+import { SpeedInsights } from '@vercel/speed-insights/next';
+
+createRoot(document.getElementById('root')!).render(
+  <>
+    <SpeedInsights />
+    <Page />
+  </>
+);

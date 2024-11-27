@@ -4,15 +4,12 @@ import { biniPhotos } from '@/assets/biniPhotos';
 import { Modal, ModalOpen, ModalContent } from '@/components/Modal';
 import { Button } from '@/components/Button';
 
-import { SpeedInsights } from '@vercel/speed-insights/next';
-
 export function Page() {
   return (
     <div
       className='relative bg-cover bg-center bg-opacity-10 min-h-screen'
       style={{ backgroundImage: `url('/bloombilya.jpg')` }}
     >
-      <SpeedInsights />
       <div className='absolute inset-0 bg-rose-50 opacity-85'>
         <small className='absolute bottom-0 tracking-widest text-gray-950 [writing-mode:vertical-rl] transform rotate-180 opacity-70 py-4'>
           bg: @hellobloom8
